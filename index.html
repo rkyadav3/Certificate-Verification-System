@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Certificate Verification</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h2>🎓 Certificate Verification DApp</h2>
+
+<button onclick="connectWallet()">Connect Freighter</button>
+<p id="wallet"></p>
+
+<hr>
+
+<h3>Issue Certificate</h3>
+<input type="text" id="certHash" placeholder="Enter certificate hash">
+<button onclick="issueCert()">Issue</button>
+
+<hr>
+
+<h3>Verify Certificate</h3>
+<input type="text" id="verifyHash" placeholder="Enter certificate hash">
+<button onclick="verifyCert()">Verify</button>
+
+<p id="result"></p>
+
+<script src="app.js"></script>
+</body>
+</html>
