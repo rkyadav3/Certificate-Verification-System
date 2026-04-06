@@ -104,6 +104,7 @@ Network: Stellar Testnet
 * Professional licenses
 
 ---
+<img width="1651" height="769" alt="image" src="https://github.com/user-attachments/assets/3e4235f6-f267-4f39-830a-688e4a378789" />
 
 ## 👨‍💻 Author
 
